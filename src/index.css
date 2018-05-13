@@ -1,0 +1,22 @@
+body {
+  font-family: 'Yu Mincho', YuMincho, 'Hiragino Mincho ProN', 'Hiragino Mincho Pro', 'HGP明朝B', serif;
+  -webkit-font-feature-settings: 'pkna';
+          font-feature-settings: 'pkna';
+  font-size: 17px;
+  line-height: 1.9;
+  letter-spacing: 0.03em;
+  -webkit-writing-mode: vertical-rl;
+      -ms-writing-mode: tb-rl;
+          writing-mode: vertical-rl;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+p {
+  text-indent: 1em;
+  margin-left: 30px;
+}
+ruby {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Yu Gothic", YuGothic, Verdana, Meiryo, "M+ 1p", sans-serif;
+}
+
